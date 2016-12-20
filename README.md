@@ -1,4 +1,5 @@
 #Angular2 Tasks App
+test application: view tasks, edit, remove, add, filter, search
 
 ## Prepare
 
